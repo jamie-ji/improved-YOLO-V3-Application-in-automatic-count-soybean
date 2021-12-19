@@ -1,7 +1,13 @@
+@copyright allrights reserved
+受中国知识产权保护
+author：Jamie JI
+NJAU
 
 
+使用说明：
 
-使用说明
+开发文档：
+使用手册：
 
 
 
