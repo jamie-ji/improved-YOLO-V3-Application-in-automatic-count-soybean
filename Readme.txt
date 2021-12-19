@@ -6,8 +6,8 @@ NJAU
 
 使用说明：
 
-开发文档：
-使用手册：
+开发文档暂不公开，如有需求请联系jamieji0615@gmail.com
+使用手册：https://blog.csdn.net/JamieJi/article/details/122027014
 
 
 
